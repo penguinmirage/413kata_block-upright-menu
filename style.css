@@ -127,6 +127,13 @@
   text-decoration: none;
 }
 
+.call:hover,
+.chat:hover,
+.contact:hover {
+  transition-duration: 0.6s;
+  filter: blur(1px);
+}
+
 .contacts {
   margin-top: 8px;
   margin-bottom: 12px;
