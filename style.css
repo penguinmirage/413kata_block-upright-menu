@@ -69,6 +69,10 @@
   transform: translateX(100px);
 }
 
+.header__search-placeholder {
+  display: none;
+}
+
 .menu-list {
   list-style: none;
   padding: 0;
