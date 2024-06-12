@@ -115,16 +115,15 @@
 }
 
 .footer {
-  /*margin-top: 268px;*/
 }
 
-.buttons {
+.footer__buttons {
   margin-left: 16px;
 }
 
-.call,
-.chat,
-.contact {
+.buttons__call,
+.buttons__chat,
+.buttons__contact {
   margin-left: 8px;
   margin-right: 8px;
   margin-bottom: 8px;
@@ -138,18 +137,18 @@
   filter: blur(1px);
 }
 
-.contacts {
+.footer__contacts {
   margin-top: 8px;
   margin-bottom: 12px;
   margin-left: 24px;
 }
 
-.mail {
+.contacts__mail {
   text-decoration: none;
   color: black;
 }
 
-.phone {
+.contacts__phone {
   margin-top: 12px;
   font-size: 24px;
   font-weight: bold;
