@@ -68,7 +68,7 @@
 }
 
 .header__search:active {
-  transform: translateX(100px);
+  display: none;
 }
 
 .header__search-placeholder {
